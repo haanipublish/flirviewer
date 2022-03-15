@@ -6,4 +6,5 @@ Licenses of libraries:
 PySide6 - LGPLv3
 Pillow - HPND
 numpy - 3-clause BSD
+SciPy - BSD
 Flyr - EUPL 1.2
